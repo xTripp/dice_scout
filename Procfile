@@ -1,1 +1,1 @@
-worker: python3 ./dice_scout.py
+worker: python3 dice_scout.py
